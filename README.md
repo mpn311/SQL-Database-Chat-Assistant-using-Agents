@@ -1,6 +1,6 @@
 # 🤖 SQL Database Chat Assistant
 
-A professional Streamlit application that enables natural language interaction with SQL databases using LangChain and Groq LLMs.
+A professional Streamlit application that enables natural language interaction with SQL databases using LangChain and LLMs.
 
 ## ✨ Features
 
